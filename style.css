@@ -1,0 +1,88 @@
+body{
+    margin: 80px;
+    /* display: flex; */
+    /* flex-direction: column; */
+    align-items: start;
+    justify-content: center;
+    background-color: black;
+}
+
+#con1{
+    display: flex;
+}
+
+#hello{
+
+    
+    border-radius: 10px;
+    display: flex;
+    height: 40px;
+    width: 400px;
+    align-items: center;
+    justify-content: center;
+    background-color: lightslategrey;
+    box-shadow:10px 10px 10px greenyellow
+}
+
+
+#h1{
+    background-color: gold;
+    border-style: solid;
+    border-color: blueviolet;
+    border-width: 5px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+
+#formm{
+    height: 20px;
+    /* width: 500px; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:blue
+}
+
+
+#h2{
+    border: 5px solid green; 
+    border-top-left-radius: 20px;
+    background-color: brown;
+    border-bottom-right-radius: 10px;
+}
+
+
+
+
+#box-blue{
+
+    margin-top: 50px;
+    margin-left: 40px;
+    margin-right: 40px;
+    box-shadow: 10px 10px 10px   blue
+
+}
+
+#line{
+    margin-top: 0px;
+    margin-left: 40px;
+    height:400px;
+    width: 12px;
+    background-color: aqua;
+    box-shadow: 0 0 20px red;
+}
+
+#box-green{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    height: 300px;
+    width: 300px;
+    background-color: greenyellow;
+    margin-top: 100px;
+    box-shadow: 10px 10px 10px red;
+    color: blue;
+}
